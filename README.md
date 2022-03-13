@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://discord.gg/56t9rgTC"> <img src="https://img.shields.io/discord/380484403458998276?logo=discord"> </a>
+  <a href="https://discord.gg/56t9rgTC"> <img src="https://img.shields.io/discord/363114203084488708?logo=discord"> </a>
 </p>
 
 # olcPixelEngine
