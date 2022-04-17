@@ -5,7 +5,7 @@
 # olcPixelEngine
 The unofficial distribution of olcPixelEngine.
 
-**You only need the one file - olcPixelGameEngine.h - included in your project!**
+**You only need the one file - olcPixelEngine.h - included in your project!**
 
 Provides a fast, richly featured, cross platform pixel drawing and user interface framework for
  * The development of games
