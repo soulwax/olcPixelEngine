@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-g++ -g -rdynamic CMakeFiles/PixelEngine.dir/main.cpp.o -o PixelEngine 

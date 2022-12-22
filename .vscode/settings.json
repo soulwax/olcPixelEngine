@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "*.md": "markdown",
+        "html": "html",
+        "olcpixelgameengine.h": "c"
+    }
+}

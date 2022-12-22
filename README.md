@@ -37,4 +37,15 @@ olcPixelEngine is actively maintained and developed.
 olcPixelEngine is used by 100s, if not 1000s of programmers at all levels of ability!
 
 
+# How to build:
+## Linux
+```
+sudo apt-get install libx11-dev libgl1-mesa-dev libglu1-mesa-dev libgl-dev
+gcc -Wall -o main main.cpp -lX11 -lGL -lpthread -lpng -lstdc++fs
 
+```
+## Raspberry Pi
+```
+sudo apt-get install libx11-dev libgl1-mesa-dev libglu1-mesa-dev libgl-dev
+gcc -Wall -o main main.cpp -lX11 -lGL -lpthread -lpng -lstdc++fs
+```
